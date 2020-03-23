@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplicacionRadioButton</string>
+    <string name="Txt_num1_string">Valor numero uno</string>
+    <string name="Txt_num2_string">Valor numero dos</string>
+    <string name="rb1_strinng">Suma</string>
+    <string name="rb2_string">Resta</string>
+    <string name="rb3_string">Multiplicacion</string>
+    <string name="rb4_string">Dividir</string>
+    <string name="button_string">Calcular</string>
+    <string name="txt_view_string">Resultado</string>
+</resources>
